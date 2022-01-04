@@ -1,1 +1,1 @@
-The aim of this project is to use machine learning to generate playlists based on happy and sad emotions. Read the full report to learn more about the methods of this project to recreate it or improve it. 
+The aim of this project is to use machine learning to generate playlists based on happy and sad emotions. Read the full report to learn how to recreate or improve this project. 
